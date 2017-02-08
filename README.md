@@ -67,6 +67,9 @@ These are some packages I find useful, and their most useful key bindings. A lis
 
 | Command | Mac OS X | Windows | Linux | Package |
 | ------- | -------- | ------- | ----- | ----------- |
+
+| Todo Show | `ctrl-shift-t` |  |  | [Todo Show](https://atom.io/packages/todo-show) |
+| Python Debugger | `alt-r` |  |  | [Python Debugger](https://atom.io/packages/python-debugger) |
 | Block Travel up/down | `alt-up`, `alt-down` |  |  | [Block Travel](https://atom.io/packages/block-travel) |
 | Beautify | `ctrl-alt-b` |  |  | [Beautify](https://atom.io/packages/atom-beautify) |
 | Expand Abbreviation | `shift-cmd-e` | `ctrl-e` | `ctrl-e` | [Emmet](https://atom.io/packages/emmet) |
